@@ -1,0 +1,10 @@
+a.out
+main.cpp
+test.cpp
+.vscode
+vgcore.*
+*.o
+obj
+my_obj
+*.so
+my_objdump
